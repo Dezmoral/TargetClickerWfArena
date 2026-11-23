@@ -1,0 +1,17 @@
+# .NET build output
+bin/
+obj/
+
+# Local publish and versioned test builds
+single-exe/
+webui-build/
+build-check/
+release-check/
+v*/
+
+# IDE and user files
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
